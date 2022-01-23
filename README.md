@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @orkeilius
-- 🌱 I’m currently learning how to use github
+- 🌱 I’m currently learning how to use node.js (also call as big mistake)
 - 📫 How to reach me r/orkeilius
 - (◕‿◕) look at [my itch.io page](a-random-baguette.itch.io)
 <!---
