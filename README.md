@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @orkeilius
-- 🌱 I’m currently learning how make a website with framework (also call as big mistake) (send help pls)
+- 🌱 I’m currently make code on codingame
 - (◕‿◕) look at [my itch.io page](https://www.a-random-baguette.itch.io)
 
 Contributing to projects is so stressful :((
