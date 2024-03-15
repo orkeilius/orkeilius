@@ -2,5 +2,5 @@
 - 🌱 I’m currently make code on leetcode
 - (◕‿◕) look at [my itch.io page](https://www.a-random-baguette.itch.io)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orkeilius&theme=dark&hide=css,html&langs_count=5&card_width=300)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orkeilius&layout=compact)
 ![Marko's GitHub stats](https://github-readme-stats.vercel.app/api?username=orkeilius&show_icons=true&theme=dark&line_height=40)
