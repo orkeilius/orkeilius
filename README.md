@@ -3,4 +3,4 @@
 - (◕‿◕) look at [my itch.io page](https://www.a-random-baguette.itch.io)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orkeilius&layout=compact)
-![Marko's GitHub stats](https://github-readme-stats.vercel.app/api?username=orkeilius&show_icons=true&theme=dark&line_height=40)
+![Metrics](https://metrics.lecoq.io/orkeilius?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
