@@ -26,5 +26,6 @@
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orkeilius&layout=compact)
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=orkeilius)](https://github.com/madushadhanushka/github-readme)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orkeilius&layout=donut&theme=transparent&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=orkeilius&show_icons=true&theme=transparent&hide_border=true)
+<!--![wakatime stat](https://github-readme-stats.vercel.app/api/wakatime/?username=@b3086389-10af-4dfc-a8ea-5893ce3fda92&layout=donut&theme=tokyonight)-->
