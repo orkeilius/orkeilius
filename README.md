@@ -1,8 +1,4 @@
 ## Hi, I’m @orkeilius
-- 🌱 I’m currently make code on leetcode
-- (◕‿◕) look at [my itch.io page](https://www.a-random-baguette.itch.io)
-
-
 
 
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
