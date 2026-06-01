@@ -24,9 +24,8 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orkeilius&layout=donut&theme=transparent&hide_border=true)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=orkeilius&show_icons=true&theme=transparent&hide_border=true)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=orkeilius&hide=trend%2Cgrade%2Cstreak%2Cweek%2Cavg%2Chours)
+![Top Languages](https://ghstats.dev/api/langs?username=orkeilius&max_langs=12)
 <!--![wakatime stat](https://github-readme-stats.vercel.app/api/wakatime/?username=@b3086389-10af-4dfc-a8ea-5893ce3fda92&layout=donut&theme=tokyonight)-->
 
 
