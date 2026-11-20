@@ -1,0 +1,3645 @@
+{
+  "schema": 3,
+  "login": "orkeilius",
+  "account_id": 63045634,
+  "range": {
+    "from": "2020-01-01",
+    "to": "2026-11-19"
+  },
+  "observed_on": "2026-11-19",
+  "collected_with": "gitbonsai 0.4.0",
+  "language_colors": {
+    "C#": "#7355dd",
+    "C++": "#f34b7d",
+    "Dart": "#00b4ab",
+    "GDScript": "#355570",
+    "HTML": "#e34c26",
+    "Haskell": "#5e5086",
+    "Java": "#b07219",
+    "JavaScript": "#f1e05a",
+    "Kotlin": "#a97bff",
+    "Lua": "#000080",
+    "Markdown": "#083fa1",
+    "PHP": "#4f5d95",
+    "PowerShell": "#012456",
+    "Python": "#3572a5",
+    "QML": "#44a51c",
+    "Rust": "#dea584",
+    "SCSS": "#c6538c",
+    "Shell": "#89e051",
+    "TypeScript": "#3178c6"
+  },
+  "days": [
+    {
+      "date": "2020-04-02",
+      "total": 1,
+      "by_language": {}
+    },
+    {
+      "date": "2020-04-06",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2020-04-07",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2021-05-16",
+      "total": 1,
+      "by_language": {}
+    },
+    {
+      "date": "2021-06-16",
+      "total": 1,
+      "by_language": {}
+    },
+    {
+      "date": "2021-10-24",
+      "total": 6,
+      "by_language": {
+        "Python": 6
+      }
+    },
+    {
+      "date": "2021-10-25",
+      "total": 16,
+      "by_language": {
+        "Python": 16
+      }
+    },
+    {
+      "date": "2021-10-26",
+      "total": 7,
+      "by_language": {
+        "Python": 7
+      }
+    },
+    {
+      "date": "2021-10-27",
+      "total": 7,
+      "by_language": {
+        "Python": 7
+      }
+    },
+    {
+      "date": "2021-10-28",
+      "total": 6,
+      "by_language": {
+        "Python": 6
+      }
+    },
+    {
+      "date": "2021-10-31",
+      "total": 2,
+      "by_language": {
+        "Markdown": 2
+      }
+    },
+    {
+      "date": "2021-11-30",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2021-12-01",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2022-01-01",
+      "total": 5,
+      "by_language": {
+        "Lua": 5
+      }
+    },
+    {
+      "date": "2022-01-02",
+      "total": 1,
+      "by_language": {
+        "Lua": 1
+      }
+    },
+    {
+      "date": "2022-01-03",
+      "total": 2,
+      "by_language": {
+        "Lua": 2
+      }
+    },
+    {
+      "date": "2022-01-04",
+      "total": 3,
+      "by_language": {
+        "Lua": 2
+      }
+    },
+    {
+      "date": "2022-01-10",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2022-01-23",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2022-02-12",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2022-02-15",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2022-02-16",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2022-02-18",
+      "total": 4,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2022-02-19",
+      "total": 5,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2022-02-20",
+      "total": 3,
+      "by_language": {
+        "Lua": 3
+      }
+    },
+    {
+      "date": "2022-02-21",
+      "total": 7,
+      "by_language": {},
+      "private": 6
+    },
+    {
+      "date": "2022-02-22",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2022-02-25",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2022-02-27",
+      "total": 6,
+      "by_language": {},
+      "private": 5
+    },
+    {
+      "date": "2022-02-28",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2022-03-01",
+      "total": 6,
+      "by_language": {},
+      "private": 5
+    },
+    {
+      "date": "2022-03-03",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2022-03-04",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2022-03-08",
+      "total": 3,
+      "by_language": {
+        "HTML": 1,
+        "JavaScript": 2
+      }
+    },
+    {
+      "date": "2022-03-12",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2022-03-17",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2022-03-22",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2022-03-23",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2022-03-26",
+      "total": 2,
+      "by_language": {
+        "C#": 1,
+        "Python": 1
+      }
+    },
+    {
+      "date": "2022-03-27",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2022-04-09",
+      "total": 25,
+      "by_language": {
+        "Python": 25
+      }
+    },
+    {
+      "date": "2022-04-10",
+      "total": 10,
+      "by_language": {
+        "Python": 10
+      }
+    },
+    {
+      "date": "2022-04-22",
+      "total": 6,
+      "by_language": {
+        "Python": 6
+      }
+    },
+    {
+      "date": "2022-04-23",
+      "total": 6,
+      "by_language": {},
+      "private": 6
+    },
+    {
+      "date": "2022-04-24",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2022-05-07",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2022-05-08",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2022-05-09",
+      "total": 2,
+      "by_language": {}
+    },
+    {
+      "date": "2022-05-14",
+      "total": 5,
+      "by_language": {
+        "Python": 5
+      }
+    },
+    {
+      "date": "2022-05-20",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2022-05-25",
+      "total": 2,
+      "by_language": {}
+    },
+    {
+      "date": "2022-08-14",
+      "total": 5,
+      "by_language": {},
+      "private": 5
+    },
+    {
+      "date": "2022-09-01",
+      "total": 1,
+      "by_language": {}
+    },
+    {
+      "date": "2022-09-08",
+      "total": 4,
+      "by_language": {
+        "HTML": 4
+      }
+    },
+    {
+      "date": "2022-09-14",
+      "total": 13,
+      "by_language": {
+        "HTML": 13
+      }
+    },
+    {
+      "date": "2022-09-15",
+      "total": 8,
+      "by_language": {
+        "HTML": 8
+      }
+    },
+    {
+      "date": "2022-09-16",
+      "total": 14,
+      "by_language": {
+        "HTML": 14
+      }
+    },
+    {
+      "date": "2022-09-17",
+      "total": 1,
+      "by_language": {
+        "JavaScript": 1
+      }
+    },
+    {
+      "date": "2022-09-18",
+      "total": 3,
+      "by_language": {
+        "JavaScript": 2
+      }
+    },
+    {
+      "date": "2022-09-20",
+      "total": 3,
+      "by_language": {
+        "HTML": 3
+      }
+    },
+    {
+      "date": "2022-09-21",
+      "total": 1,
+      "by_language": {
+        "HTML": 1
+      }
+    },
+    {
+      "date": "2022-09-22",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2022-09-23",
+      "total": 1,
+      "by_language": {}
+    },
+    {
+      "date": "2022-09-24",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2022-09-26",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2022-09-27",
+      "total": 6,
+      "by_language": {
+        "Python": 6
+      }
+    },
+    {
+      "date": "2022-09-28",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2022-10-07",
+      "total": 5,
+      "by_language": {
+        "PHP": 5
+      }
+    },
+    {
+      "date": "2022-10-08",
+      "total": 8,
+      "by_language": {
+        "PHP": 8
+      }
+    },
+    {
+      "date": "2022-10-09",
+      "total": 3,
+      "by_language": {
+        "PHP": 3
+      }
+    },
+    {
+      "date": "2022-10-13",
+      "total": 2,
+      "by_language": {
+        "PHP": 2
+      }
+    },
+    {
+      "date": "2022-10-14",
+      "total": 17,
+      "by_language": {
+        "PHP": 17
+      }
+    },
+    {
+      "date": "2022-10-17",
+      "total": 3,
+      "by_language": {
+        "PHP": 3
+      }
+    },
+    {
+      "date": "2022-10-18",
+      "total": 2,
+      "by_language": {
+        "PHP": 2
+      }
+    },
+    {
+      "date": "2022-10-21",
+      "total": 4,
+      "by_language": {
+        "PHP": 4
+      }
+    },
+    {
+      "date": "2022-11-08",
+      "total": 7,
+      "by_language": {
+        "PHP": 7
+      }
+    },
+    {
+      "date": "2022-11-09",
+      "total": 15,
+      "by_language": {
+        "PHP": 15
+      }
+    },
+    {
+      "date": "2022-11-10",
+      "total": 7,
+      "by_language": {
+        "PHP": 7
+      }
+    },
+    {
+      "date": "2022-11-12",
+      "total": 15,
+      "by_language": {
+        "PHP": 15
+      }
+    },
+    {
+      "date": "2022-11-14",
+      "total": 1,
+      "by_language": {
+        "PHP": 1
+      }
+    },
+    {
+      "date": "2022-11-15",
+      "total": 12,
+      "by_language": {
+        "PHP": 12
+      }
+    },
+    {
+      "date": "2022-11-16",
+      "total": 2,
+      "by_language": {
+        "PHP": 2
+      }
+    },
+    {
+      "date": "2022-11-18",
+      "total": 6,
+      "by_language": {
+        "PHP": 6
+      }
+    },
+    {
+      "date": "2022-11-29",
+      "total": 3,
+      "by_language": {
+        "PHP": 3
+      }
+    },
+    {
+      "date": "2022-12-01",
+      "total": 5,
+      "by_language": {
+        "PHP": 5
+      }
+    },
+    {
+      "date": "2022-12-02",
+      "total": 2,
+      "by_language": {
+        "PHP": 2
+      }
+    },
+    {
+      "date": "2022-12-09",
+      "total": 3,
+      "by_language": {
+        "PHP": 3
+      }
+    },
+    {
+      "date": "2022-12-10",
+      "total": 8,
+      "by_language": {
+        "PHP": 8
+      }
+    },
+    {
+      "date": "2022-12-13",
+      "total": 4,
+      "by_language": {
+        "Python": 4
+      }
+    },
+    {
+      "date": "2022-12-14",
+      "total": 8,
+      "by_language": {
+        "JavaScript": 4,
+        "PHP": 2,
+        "Python": 2
+      }
+    },
+    {
+      "date": "2022-12-17",
+      "total": 1,
+      "by_language": {
+        "JavaScript": 1
+      }
+    },
+    {
+      "date": "2022-12-18",
+      "total": 3,
+      "by_language": {
+        "JavaScript": 2,
+        "Python": 1
+      }
+    },
+    {
+      "date": "2022-12-20",
+      "total": 1,
+      "by_language": {
+        "JavaScript": 1
+      }
+    },
+    {
+      "date": "2022-12-22",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2022-12-27",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2023-01-02",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2023-01-16",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2023-01-23",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2023-01-24",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2023-01-26",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2023-02-04",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2023-02-06",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2023-02-07",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2023-02-08",
+      "total": 6,
+      "by_language": {},
+      "private": 6
+    },
+    {
+      "date": "2023-02-10",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2023-02-11",
+      "total": 9,
+      "by_language": {
+        "PHP": 9
+      }
+    },
+    {
+      "date": "2023-02-14",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2023-02-16",
+      "total": 9,
+      "by_language": {
+        "PHP": 9
+      }
+    },
+    {
+      "date": "2023-02-19",
+      "total": 7,
+      "by_language": {
+        "Python": 7
+      }
+    },
+    {
+      "date": "2023-02-20",
+      "total": 4,
+      "by_language": {
+        "Python": 4
+      }
+    },
+    {
+      "date": "2023-02-21",
+      "total": 8,
+      "by_language": {
+        "PHP": 2,
+        "Python": 6
+      }
+    },
+    {
+      "date": "2023-02-22",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2023-03-09",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2023-03-10",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2023-03-11",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2023-03-25",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2023-03-26",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2023-03-28",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2023-04-09",
+      "total": 6,
+      "by_language": {},
+      "private": 6
+    },
+    {
+      "date": "2023-04-14",
+      "total": 2,
+      "by_language": {
+        "PHP": 2
+      }
+    },
+    {
+      "date": "2023-04-15",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2023-04-28",
+      "total": 1,
+      "by_language": {
+        "C#": 1
+      }
+    },
+    {
+      "date": "2023-05-16",
+      "total": 6,
+      "by_language": {
+        "JavaScript": 6
+      }
+    },
+    {
+      "date": "2023-05-17",
+      "total": 6,
+      "by_language": {
+        "JavaScript": 6
+      }
+    },
+    {
+      "date": "2023-05-18",
+      "total": 1,
+      "by_language": {
+        "JavaScript": 1
+      }
+    },
+    {
+      "date": "2023-05-19",
+      "total": 4,
+      "by_language": {
+        "JavaScript": 4
+      }
+    },
+    {
+      "date": "2023-05-22",
+      "total": 5,
+      "by_language": {
+        "JavaScript": 5
+      }
+    },
+    {
+      "date": "2023-05-23",
+      "total": 11,
+      "by_language": {
+        "JavaScript": 11
+      }
+    },
+    {
+      "date": "2023-05-24",
+      "total": 2,
+      "by_language": {
+        "JavaScript": 2
+      }
+    },
+    {
+      "date": "2023-05-25",
+      "total": 7,
+      "by_language": {
+        "JavaScript": 7
+      }
+    },
+    {
+      "date": "2023-05-26",
+      "total": 4,
+      "by_language": {
+        "JavaScript": 4
+      }
+    },
+    {
+      "date": "2023-05-29",
+      "total": 4,
+      "by_language": {
+        "JavaScript": 4
+      }
+    },
+    {
+      "date": "2023-05-30",
+      "total": 7,
+      "by_language": {
+        "JavaScript": 7
+      }
+    },
+    {
+      "date": "2023-05-31",
+      "total": 4,
+      "by_language": {
+        "JavaScript": 4
+      }
+    },
+    {
+      "date": "2023-06-01",
+      "total": 14,
+      "by_language": {
+        "JavaScript": 14
+      }
+    },
+    {
+      "date": "2023-06-02",
+      "total": 14,
+      "by_language": {
+        "JavaScript": 14
+      }
+    },
+    {
+      "date": "2023-06-06",
+      "total": 2,
+      "by_language": {
+        "JavaScript": 2
+      }
+    },
+    {
+      "date": "2023-06-07",
+      "total": 5,
+      "by_language": {
+        "JavaScript": 5
+      }
+    },
+    {
+      "date": "2023-06-08",
+      "total": 4,
+      "by_language": {
+        "JavaScript": 3
+      }
+    },
+    {
+      "date": "2023-06-09",
+      "total": 9,
+      "by_language": {
+        "JavaScript": 9
+      }
+    },
+    {
+      "date": "2023-06-12",
+      "total": 14,
+      "by_language": {
+        "JavaScript": 14
+      }
+    },
+    {
+      "date": "2023-06-13",
+      "total": 8,
+      "by_language": {
+        "JavaScript": 8
+      }
+    },
+    {
+      "date": "2023-06-14",
+      "total": 8,
+      "by_language": {
+        "JavaScript": 8
+      }
+    },
+    {
+      "date": "2023-06-15",
+      "total": 10,
+      "by_language": {
+        "JavaScript": 10
+      }
+    },
+    {
+      "date": "2023-06-16",
+      "total": 4,
+      "by_language": {
+        "JavaScript": 4
+      }
+    },
+    {
+      "date": "2023-06-19",
+      "total": 4,
+      "by_language": {
+        "JavaScript": 4
+      }
+    },
+    {
+      "date": "2023-06-20",
+      "total": 1,
+      "by_language": {
+        "JavaScript": 1
+      }
+    },
+    {
+      "date": "2023-06-21",
+      "total": 6,
+      "by_language": {
+        "JavaScript": 6
+      }
+    },
+    {
+      "date": "2023-06-22",
+      "total": 3,
+      "by_language": {
+        "JavaScript": 3
+      }
+    },
+    {
+      "date": "2023-06-23",
+      "total": 1,
+      "by_language": {
+        "JavaScript": 1
+      }
+    },
+    {
+      "date": "2023-06-26",
+      "total": 3,
+      "by_language": {
+        "JavaScript": 3
+      }
+    },
+    {
+      "date": "2023-06-27",
+      "total": 4,
+      "by_language": {
+        "JavaScript": 4
+      }
+    },
+    {
+      "date": "2023-06-28",
+      "total": 13,
+      "by_language": {
+        "JavaScript": 13
+      }
+    },
+    {
+      "date": "2023-06-29",
+      "total": 5,
+      "by_language": {
+        "JavaScript": 4,
+        "TypeScript": 1
+      }
+    },
+    {
+      "date": "2023-06-30",
+      "total": 12,
+      "by_language": {
+        "JavaScript": 12
+      }
+    },
+    {
+      "date": "2023-07-03",
+      "total": 7,
+      "by_language": {
+        "JavaScript": 7
+      }
+    },
+    {
+      "date": "2023-07-04",
+      "total": 3,
+      "by_language": {
+        "JavaScript": 3
+      }
+    },
+    {
+      "date": "2023-07-05",
+      "total": 5,
+      "by_language": {
+        "JavaScript": 5
+      }
+    },
+    {
+      "date": "2023-07-06",
+      "total": 10,
+      "by_language": {
+        "JavaScript": 10
+      }
+    },
+    {
+      "date": "2023-07-07",
+      "total": 8,
+      "by_language": {
+        "JavaScript": 8
+      }
+    },
+    {
+      "date": "2023-07-10",
+      "total": 6,
+      "by_language": {
+        "JavaScript": 6
+      }
+    },
+    {
+      "date": "2023-07-11",
+      "total": 10,
+      "by_language": {
+        "JavaScript": 10
+      }
+    },
+    {
+      "date": "2023-07-12",
+      "total": 8,
+      "by_language": {
+        "JavaScript": 8
+      }
+    },
+    {
+      "date": "2023-08-07",
+      "total": 4,
+      "by_language": {
+        "Python": 4
+      }
+    },
+    {
+      "date": "2023-08-18",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2023-08-19",
+      "total": 5,
+      "by_language": {
+        "Python": 5
+      }
+    },
+    {
+      "date": "2023-08-20",
+      "total": 7,
+      "by_language": {
+        "Python": 6
+      }
+    },
+    {
+      "date": "2023-08-21",
+      "total": 5,
+      "by_language": {
+        "Python": 5
+      }
+    },
+    {
+      "date": "2023-08-22",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2023-08-23",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2023-08-24",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2023-08-26",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2023-08-28",
+      "total": 5,
+      "by_language": {
+        "Python": 5
+      }
+    },
+    {
+      "date": "2023-08-29",
+      "total": 4,
+      "by_language": {
+        "Python": 4
+      }
+    },
+    {
+      "date": "2023-08-30",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2023-08-31",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2023-09-01",
+      "total": 5,
+      "by_language": {
+        "Python": 5
+      }
+    },
+    {
+      "date": "2023-09-02",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2023-09-03",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2023-09-04",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2023-09-05",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2023-09-06",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2023-09-07",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2023-09-08",
+      "total": 10,
+      "by_language": {
+        "Java": 7,
+        "Python": 3
+      }
+    },
+    {
+      "date": "2023-09-09",
+      "total": 8,
+      "by_language": {
+        "Java": 8
+      }
+    },
+    {
+      "date": "2023-09-10",
+      "total": 2,
+      "by_language": {
+        "Java": 2
+      }
+    },
+    {
+      "date": "2023-09-11",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2023-09-12",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2023-09-14",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2023-09-15",
+      "total": 2,
+      "by_language": {
+        "Java": 2
+      }
+    },
+    {
+      "date": "2023-09-17",
+      "total": 1,
+      "by_language": {
+        "Java": 1
+      }
+    },
+    {
+      "date": "2023-09-20",
+      "total": 9,
+      "by_language": {
+        "Java": 7,
+        "JavaScript": 2
+      }
+    },
+    {
+      "date": "2023-09-21",
+      "total": 3,
+      "by_language": {
+        "JavaScript": 3
+      }
+    },
+    {
+      "date": "2023-09-22",
+      "total": 2,
+      "by_language": {
+        "Java": 2
+      }
+    },
+    {
+      "date": "2023-09-23",
+      "total": 2,
+      "by_language": {
+        "Java": 2
+      }
+    },
+    {
+      "date": "2023-09-25",
+      "total": 2,
+      "by_language": {
+        "Java": 2
+      }
+    },
+    {
+      "date": "2023-09-26",
+      "total": 2,
+      "by_language": {
+        "Java": 2
+      }
+    },
+    {
+      "date": "2023-09-28",
+      "total": 11,
+      "by_language": {
+        "Java": 6,
+        "JavaScript": 5
+      }
+    },
+    {
+      "date": "2023-09-29",
+      "total": 13,
+      "by_language": {
+        "Java": 13
+      }
+    },
+    {
+      "date": "2023-10-02",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2023-10-06",
+      "total": 10,
+      "by_language": {
+        "GDScript": 10
+      }
+    },
+    {
+      "date": "2023-10-11",
+      "total": 9,
+      "by_language": {
+        "GDScript": 7,
+        "Java": 2
+      }
+    },
+    {
+      "date": "2023-10-13",
+      "total": 22,
+      "by_language": {
+        "GDScript": 21
+      }
+    },
+    {
+      "date": "2023-10-16",
+      "total": 1,
+      "by_language": {
+        "GDScript": 1
+      }
+    },
+    {
+      "date": "2023-10-17",
+      "total": 2,
+      "by_language": {
+        "GDScript": 2
+      }
+    },
+    {
+      "date": "2023-10-18",
+      "total": 6,
+      "by_language": {
+        "GDScript": 6
+      }
+    },
+    {
+      "date": "2023-10-19",
+      "total": 27,
+      "by_language": {
+        "GDScript": 27
+      }
+    },
+    {
+      "date": "2023-10-20",
+      "total": 10,
+      "by_language": {
+        "GDScript": 10
+      }
+    },
+    {
+      "date": "2023-10-23",
+      "total": 3,
+      "by_language": {
+        "JavaScript": 3
+      }
+    },
+    {
+      "date": "2023-10-24",
+      "total": 2,
+      "by_language": {
+        "JavaScript": 2
+      }
+    },
+    {
+      "date": "2023-10-26",
+      "total": 6,
+      "by_language": {
+        "GDScript": 6
+      }
+    },
+    {
+      "date": "2023-11-04",
+      "total": 2,
+      "by_language": {
+        "JavaScript": 2
+      }
+    },
+    {
+      "date": "2023-11-10",
+      "total": 10,
+      "by_language": {
+        "GDScript": 10
+      }
+    },
+    {
+      "date": "2023-11-14",
+      "total": 2,
+      "by_language": {
+        "JavaScript": 2
+      }
+    },
+    {
+      "date": "2023-11-16",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2023-11-17",
+      "total": 19,
+      "by_language": {
+        "GDScript": 19
+      }
+    },
+    {
+      "date": "2023-11-18",
+      "total": 4,
+      "by_language": {
+        "GDScript": 4
+      }
+    },
+    {
+      "date": "2023-11-20",
+      "total": 2,
+      "by_language": {
+        "SCSS": 1,
+        "TypeScript": 1
+      }
+    },
+    {
+      "date": "2023-11-24",
+      "total": 21,
+      "by_language": {
+        "GDScript": 21
+      }
+    },
+    {
+      "date": "2023-11-25",
+      "total": 2,
+      "by_language": {
+        "GDScript": 2
+      }
+    },
+    {
+      "date": "2023-11-27",
+      "total": 4,
+      "by_language": {
+        "GDScript": 4
+      }
+    },
+    {
+      "date": "2023-11-28",
+      "total": 1,
+      "by_language": {
+        "GDScript": 1
+      }
+    },
+    {
+      "date": "2023-11-30",
+      "total": 10,
+      "by_language": {
+        "GDScript": 10
+      }
+    },
+    {
+      "date": "2023-12-01",
+      "total": 15,
+      "by_language": {
+        "GDScript": 15
+      }
+    },
+    {
+      "date": "2023-12-02",
+      "total": 2,
+      "by_language": {
+        "GDScript": 2
+      }
+    },
+    {
+      "date": "2023-12-03",
+      "total": 2,
+      "by_language": {
+        "GDScript": 2
+      }
+    },
+    {
+      "date": "2023-12-04",
+      "total": 1,
+      "by_language": {
+        "GDScript": 1
+      }
+    },
+    {
+      "date": "2023-12-05",
+      "total": 4,
+      "by_language": {
+        "GDScript": 4
+      }
+    },
+    {
+      "date": "2023-12-06",
+      "total": 3,
+      "by_language": {
+        "GDScript": 3
+      }
+    },
+    {
+      "date": "2023-12-07",
+      "total": 7,
+      "by_language": {
+        "GDScript": 7
+      }
+    },
+    {
+      "date": "2023-12-08",
+      "total": 7,
+      "by_language": {
+        "GDScript": 7
+      }
+    },
+    {
+      "date": "2023-12-11",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2023-12-12",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2023-12-15",
+      "total": 10,
+      "by_language": {
+        "Python": 10
+      }
+    },
+    {
+      "date": "2023-12-16",
+      "total": 6,
+      "by_language": {
+        "Python": 6
+      }
+    },
+    {
+      "date": "2023-12-19",
+      "total": 5,
+      "by_language": {
+        "JavaScript": 1,
+        "Python": 4
+      }
+    },
+    {
+      "date": "2023-12-20",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2023-12-22",
+      "total": 12,
+      "by_language": {
+        "Python": 12
+      }
+    },
+    {
+      "date": "2024-01-02",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2024-01-03",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2024-01-04",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2024-01-05",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2024-01-16",
+      "total": 10,
+      "by_language": {},
+      "private": 8
+    },
+    {
+      "date": "2024-01-18",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2024-01-19",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2024-01-22",
+      "total": 8,
+      "by_language": {
+        "Python": 2
+      },
+      "private": 5
+    },
+    {
+      "date": "2024-01-23",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2024-01-31",
+      "total": 1,
+      "by_language": {
+        "JavaScript": 1
+      }
+    },
+    {
+      "date": "2024-02-28",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2024-02-29",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2024-03-01",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2024-03-06",
+      "total": 2,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2024-03-08",
+      "total": 7,
+      "by_language": {},
+      "private": 6
+    },
+    {
+      "date": "2024-03-12",
+      "total": 2,
+      "by_language": {
+        "TypeScript": 2
+      }
+    },
+    {
+      "date": "2024-03-13",
+      "total": 2,
+      "by_language": {
+        "TypeScript": 2
+      }
+    },
+    {
+      "date": "2024-03-14",
+      "total": 5,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2024-03-15",
+      "total": 7,
+      "by_language": {},
+      "private": 6
+    },
+    {
+      "date": "2024-03-25",
+      "total": 1,
+      "by_language": {}
+    },
+    {
+      "date": "2024-03-27",
+      "total": 1,
+      "by_language": {}
+    },
+    {
+      "date": "2024-04-03",
+      "total": 5,
+      "by_language": {
+        "Python": 5
+      }
+    },
+    {
+      "date": "2024-04-04",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2024-04-05",
+      "total": 5,
+      "by_language": {
+        "Python": 5
+      }
+    },
+    {
+      "date": "2024-04-06",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2024-04-07",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2024-04-08",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2024-04-09",
+      "total": 4,
+      "by_language": {
+        "JavaScript": 1,
+        "Python": 1
+      },
+      "private": 2
+    },
+    {
+      "date": "2024-04-10",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2024-04-11",
+      "total": 3,
+      "by_language": {
+        "JavaScript": 3
+      }
+    },
+    {
+      "date": "2024-04-12",
+      "total": 6,
+      "by_language": {
+        "JavaScript": 4
+      },
+      "private": 2
+    },
+    {
+      "date": "2024-04-14",
+      "total": 2,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2024-04-16",
+      "total": 6,
+      "by_language": {
+        "PHP": 6
+      }
+    },
+    {
+      "date": "2024-04-17",
+      "total": 12,
+      "by_language": {
+        "PHP": 12
+      }
+    },
+    {
+      "date": "2024-04-18",
+      "total": 11,
+      "by_language": {
+        "PHP": 11
+      }
+    },
+    {
+      "date": "2024-04-19",
+      "total": 3,
+      "by_language": {
+        "PHP": 2
+      }
+    },
+    {
+      "date": "2024-04-22",
+      "total": 2,
+      "by_language": {
+        "PHP": 2
+      }
+    },
+    {
+      "date": "2024-04-23",
+      "total": 1,
+      "by_language": {
+        "PHP": 1
+      }
+    },
+    {
+      "date": "2024-04-25",
+      "total": 4,
+      "by_language": {
+        "JavaScript": 4
+      }
+    },
+    {
+      "date": "2024-04-26",
+      "total": 1,
+      "by_language": {
+        "JavaScript": 1
+      }
+    },
+    {
+      "date": "2024-05-02",
+      "total": 3,
+      "by_language": {
+        "Shell": 3
+      }
+    },
+    {
+      "date": "2024-06-18",
+      "total": 6,
+      "by_language": {
+        "Kotlin": 6
+      }
+    },
+    {
+      "date": "2024-06-19",
+      "total": 5,
+      "by_language": {
+        "Kotlin": 5
+      }
+    },
+    {
+      "date": "2024-06-22",
+      "total": 2,
+      "by_language": {
+        "Dart": 1
+      }
+    },
+    {
+      "date": "2024-06-24",
+      "total": 5,
+      "by_language": {
+        "C#": 1,
+        "Kotlin": 4
+      }
+    },
+    {
+      "date": "2024-06-25",
+      "total": 10,
+      "by_language": {
+        "Kotlin": 10
+      }
+    },
+    {
+      "date": "2024-06-28",
+      "total": 9,
+      "by_language": {
+        "Kotlin": 9
+      }
+    },
+    {
+      "date": "2024-06-30",
+      "total": 22,
+      "by_language": {
+        "Kotlin": 22
+      }
+    },
+    {
+      "date": "2024-07-01",
+      "total": 10,
+      "by_language": {
+        "Java": 2,
+        "Kotlin": 8
+      }
+    },
+    {
+      "date": "2024-07-10",
+      "total": 2,
+      "by_language": {
+        "Kotlin": 2
+      }
+    },
+    {
+      "date": "2024-08-16",
+      "total": 1,
+      "by_language": {
+        "Kotlin": 1
+      }
+    },
+    {
+      "date": "2024-09-03",
+      "total": 1,
+      "by_language": {}
+    },
+    {
+      "date": "2024-09-10",
+      "total": 1,
+      "by_language": {
+        "JavaScript": 1
+      }
+    },
+    {
+      "date": "2024-09-19",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2024-09-20",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2024-09-25",
+      "total": 1,
+      "by_language": {
+        "JavaScript": 1
+      }
+    },
+    {
+      "date": "2024-09-29",
+      "total": 1,
+      "by_language": {
+        "JavaScript": 1
+      }
+    },
+    {
+      "date": "2024-09-30",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2024-10-19",
+      "total": 1,
+      "by_language": {}
+    },
+    {
+      "date": "2024-11-03",
+      "total": 4,
+      "by_language": {
+        "Lua": 4
+      }
+    },
+    {
+      "date": "2024-11-14",
+      "total": 4,
+      "by_language": {
+        "PHP": 4
+      }
+    },
+    {
+      "date": "2024-11-15",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2024-12-01",
+      "total": 3,
+      "by_language": {
+        "Kotlin": 3
+      }
+    },
+    {
+      "date": "2024-12-02",
+      "total": 3,
+      "by_language": {
+        "Kotlin": 1,
+        "PHP": 2
+      }
+    },
+    {
+      "date": "2024-12-03",
+      "total": 15,
+      "by_language": {
+        "PHP": 15
+      }
+    },
+    {
+      "date": "2024-12-04",
+      "total": 1,
+      "by_language": {
+        "JavaScript": 1
+      }
+    },
+    {
+      "date": "2024-12-05",
+      "total": 2,
+      "by_language": {
+        "PHP": 2
+      }
+    },
+    {
+      "date": "2024-12-07",
+      "total": 3,
+      "by_language": {
+        "Kotlin": 3
+      }
+    },
+    {
+      "date": "2024-12-11",
+      "total": 1,
+      "by_language": {
+        "PHP": 1
+      }
+    },
+    {
+      "date": "2024-12-18",
+      "total": 1,
+      "by_language": {
+        "JavaScript": 1
+      }
+    },
+    {
+      "date": "2025-01-07",
+      "total": 2,
+      "by_language": {
+        "PHP": 2
+      }
+    },
+    {
+      "date": "2025-01-09",
+      "total": 2,
+      "by_language": {
+        "PHP": 2
+      }
+    },
+    {
+      "date": "2025-01-10",
+      "total": 11,
+      "by_language": {
+        "PHP": 11
+      }
+    },
+    {
+      "date": "2025-01-14",
+      "total": 1,
+      "by_language": {
+        "PHP": 1
+      }
+    },
+    {
+      "date": "2025-01-15",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2025-01-27",
+      "total": 3,
+      "by_language": {
+        "PHP": 3
+      }
+    },
+    {
+      "date": "2025-01-28",
+      "total": 5,
+      "by_language": {},
+      "private": 5
+    },
+    {
+      "date": "2025-01-29",
+      "total": 6,
+      "by_language": {
+        "JavaScript": 1,
+        "PHP": 5
+      }
+    },
+    {
+      "date": "2025-01-30",
+      "total": 7,
+      "by_language": {
+        "PHP": 2
+      },
+      "private": 5
+    },
+    {
+      "date": "2025-01-31",
+      "total": 5,
+      "by_language": {
+        "TypeScript": 3
+      },
+      "private": 2
+    },
+    {
+      "date": "2025-02-01",
+      "total": 10,
+      "by_language": {
+        "TypeScript": 10
+      }
+    },
+    {
+      "date": "2025-02-04",
+      "total": 1,
+      "by_language": {
+        "PHP": 1
+      }
+    },
+    {
+      "date": "2025-02-17",
+      "total": 2,
+      "by_language": {
+        "TypeScript": 2
+      }
+    },
+    {
+      "date": "2025-02-18",
+      "total": 1,
+      "by_language": {
+        "PHP": 1
+      }
+    },
+    {
+      "date": "2025-02-19",
+      "total": 9,
+      "by_language": {
+        "TypeScript": 9
+      }
+    },
+    {
+      "date": "2025-02-20",
+      "total": 4,
+      "by_language": {
+        "TypeScript": 4
+      }
+    },
+    {
+      "date": "2025-02-21",
+      "total": 24,
+      "by_language": {
+        "TypeScript": 24
+      }
+    },
+    {
+      "date": "2025-03-04",
+      "total": 1,
+      "by_language": {
+        "JavaScript": 1
+      }
+    },
+    {
+      "date": "2025-03-09",
+      "total": 1,
+      "by_language": {
+        "TypeScript": 1
+      }
+    },
+    {
+      "date": "2025-03-10",
+      "total": 7,
+      "by_language": {
+        "Python": 7
+      }
+    },
+    {
+      "date": "2025-03-11",
+      "total": 4,
+      "by_language": {
+        "TypeScript": 4
+      }
+    },
+    {
+      "date": "2025-03-12",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2025-03-13",
+      "total": 4,
+      "by_language": {
+        "PowerShell": 4
+      }
+    },
+    {
+      "date": "2025-03-14",
+      "total": 4,
+      "by_language": {
+        "PowerShell": 4
+      }
+    },
+    {
+      "date": "2025-03-19",
+      "total": 2,
+      "by_language": {
+        "PHP": 2
+      }
+    },
+    {
+      "date": "2025-03-31",
+      "total": 3,
+      "by_language": {
+        "TypeScript": 3
+      }
+    },
+    {
+      "date": "2025-04-01",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2025-04-02",
+      "total": 5,
+      "by_language": {
+        "PHP": 2,
+        "Python": 1,
+        "TypeScript": 2
+      }
+    },
+    {
+      "date": "2025-04-03",
+      "total": 4,
+      "by_language": {
+        "TypeScript": 4
+      }
+    },
+    {
+      "date": "2025-04-04",
+      "total": 6,
+      "by_language": {
+        "PHP": 4,
+        "TypeScript": 2
+      }
+    },
+    {
+      "date": "2025-04-17",
+      "total": 1,
+      "by_language": {
+        "JavaScript": 1
+      }
+    },
+    {
+      "date": "2025-04-22",
+      "total": 5,
+      "by_language": {
+        "Haskell": 1,
+        "Shell": 4
+      }
+    },
+    {
+      "date": "2025-04-24",
+      "total": 1,
+      "by_language": {
+        "TypeScript": 1
+      }
+    },
+    {
+      "date": "2025-04-25",
+      "total": 6,
+      "by_language": {
+        "PHP": 2,
+        "TypeScript": 4
+      }
+    },
+    {
+      "date": "2025-05-01",
+      "total": 1,
+      "by_language": {
+        "Kotlin": 1
+      }
+    },
+    {
+      "date": "2025-05-13",
+      "total": 8,
+      "by_language": {
+        "PHP": 1,
+        "TypeScript": 7
+      }
+    },
+    {
+      "date": "2025-05-14",
+      "total": 10,
+      "by_language": {
+        "PHP": 6,
+        "TypeScript": 4
+      }
+    },
+    {
+      "date": "2025-05-15",
+      "total": 3,
+      "by_language": {
+        "TypeScript": 3
+      }
+    },
+    {
+      "date": "2025-06-01",
+      "total": 1,
+      "by_language": {
+        "TypeScript": 1
+      }
+    },
+    {
+      "date": "2025-06-02",
+      "total": 29,
+      "by_language": {
+        "TypeScript": 29
+      }
+    },
+    {
+      "date": "2025-06-04",
+      "total": 5,
+      "by_language": {},
+      "private": 5
+    },
+    {
+      "date": "2025-06-06",
+      "total": 16,
+      "by_language": {
+        "PHP": 5,
+        "TypeScript": 11
+      }
+    },
+    {
+      "date": "2025-06-09",
+      "total": 2,
+      "by_language": {
+        "PHP": 2
+      }
+    },
+    {
+      "date": "2025-06-23",
+      "total": 1,
+      "by_language": {
+        "TypeScript": 1
+      }
+    },
+    {
+      "date": "2025-06-24",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2025-06-26",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2025-07-01",
+      "total": 1,
+      "by_language": {
+        "TypeScript": 1
+      }
+    },
+    {
+      "date": "2025-07-02",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2025-07-03",
+      "total": 5,
+      "by_language": {},
+      "private": 5
+    },
+    {
+      "date": "2025-07-06",
+      "total": 8,
+      "by_language": {},
+      "private": 8
+    },
+    {
+      "date": "2025-07-07",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2025-07-20",
+      "total": 1,
+      "by_language": {}
+    },
+    {
+      "date": "2025-09-17",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2025-10-14",
+      "total": 1,
+      "by_language": {
+        "JavaScript": 1
+      }
+    },
+    {
+      "date": "2025-10-15",
+      "total": 3,
+      "by_language": {
+        "TypeScript": 3
+      }
+    },
+    {
+      "date": "2025-10-16",
+      "total": 8,
+      "by_language": {
+        "TypeScript": 3
+      },
+      "private": 5
+    },
+    {
+      "date": "2025-10-17",
+      "total": 6,
+      "by_language": {
+        "TypeScript": 6
+      }
+    },
+    {
+      "date": "2025-10-18",
+      "total": 8,
+      "by_language": {
+        "TypeScript": 8
+      }
+    },
+    {
+      "date": "2025-10-19",
+      "total": 7,
+      "by_language": {
+        "TypeScript": 7
+      }
+    },
+    {
+      "date": "2025-10-20",
+      "total": 1,
+      "by_language": {
+        "TypeScript": 1
+      }
+    },
+    {
+      "date": "2025-10-21",
+      "total": 5,
+      "by_language": {
+        "TypeScript": 5
+      }
+    },
+    {
+      "date": "2025-10-22",
+      "total": 1,
+      "by_language": {
+        "TypeScript": 1
+      }
+    },
+    {
+      "date": "2025-10-23",
+      "total": 1,
+      "by_language": {
+        "TypeScript": 1
+      }
+    },
+    {
+      "date": "2025-10-25",
+      "total": 1,
+      "by_language": {
+        "TypeScript": 1
+      }
+    },
+    {
+      "date": "2025-10-26",
+      "total": 5,
+      "by_language": {
+        "TypeScript": 5
+      }
+    },
+    {
+      "date": "2025-10-28",
+      "total": 8,
+      "by_language": {
+        "TypeScript": 8
+      }
+    },
+    {
+      "date": "2025-10-29",
+      "total": 4,
+      "by_language": {
+        "TypeScript": 4
+      }
+    },
+    {
+      "date": "2025-11-03",
+      "total": 6,
+      "by_language": {
+        "TypeScript": 6
+      }
+    },
+    {
+      "date": "2025-11-07",
+      "total": 3,
+      "by_language": {
+        "TypeScript": 3
+      }
+    },
+    {
+      "date": "2025-11-08",
+      "total": 4,
+      "by_language": {
+        "TypeScript": 4
+      }
+    },
+    {
+      "date": "2025-11-25",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2025-11-26",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2025-12-11",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2025-12-14",
+      "total": 5,
+      "by_language": {
+        "Dart": 5
+      }
+    },
+    {
+      "date": "2025-12-15",
+      "total": 6,
+      "by_language": {
+        "Java": 3
+      },
+      "private": 3
+    },
+    {
+      "date": "2025-12-16",
+      "total": 2,
+      "by_language": {
+        "C++": 1
+      },
+      "private": 1
+    },
+    {
+      "date": "2025-12-17",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2025-12-18",
+      "total": 12,
+      "by_language": {},
+      "private": 12
+    },
+    {
+      "date": "2025-12-19",
+      "total": 7,
+      "by_language": {
+        "TypeScript": 3
+      },
+      "private": 4
+    },
+    {
+      "date": "2026-01-19",
+      "total": 4,
+      "by_language": {
+        "Java": 1,
+        "TypeScript": 3
+      }
+    },
+    {
+      "date": "2026-01-20",
+      "total": 1,
+      "by_language": {
+        "TypeScript": 1
+      }
+    },
+    {
+      "date": "2026-01-21",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2026-01-22",
+      "total": 13,
+      "by_language": {},
+      "private": 12
+    },
+    {
+      "date": "2026-01-23",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2026-02-02",
+      "total": 6,
+      "by_language": {},
+      "private": 6
+    },
+    {
+      "date": "2026-02-03",
+      "total": 17,
+      "by_language": {},
+      "private": 16
+    },
+    {
+      "date": "2026-02-04",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2026-02-06",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2026-02-07",
+      "total": 10,
+      "by_language": {},
+      "private": 10
+    },
+    {
+      "date": "2026-02-08",
+      "total": 14,
+      "by_language": {},
+      "private": 13
+    },
+    {
+      "date": "2026-02-09",
+      "total": 5,
+      "by_language": {},
+      "private": 5
+    },
+    {
+      "date": "2026-02-10",
+      "total": 25,
+      "by_language": {
+        "TypeScript": 12
+      },
+      "private": 12
+    },
+    {
+      "date": "2026-02-11",
+      "total": 8,
+      "by_language": {
+        "Java": 1,
+        "Python": 5
+      },
+      "private": 2
+    },
+    {
+      "date": "2026-02-12",
+      "total": 6,
+      "by_language": {
+        "Java": 3,
+        "Python": 3
+      }
+    },
+    {
+      "date": "2026-02-13",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2026-02-21",
+      "total": 1,
+      "by_language": {
+        "C#": 1
+      }
+    },
+    {
+      "date": "2026-02-22",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2026-02-23",
+      "total": 3,
+      "by_language": {
+        "Kotlin": 1
+      },
+      "private": 2
+    },
+    {
+      "date": "2026-02-24",
+      "total": 1,
+      "by_language": {
+        "TypeScript": 1
+      }
+    },
+    {
+      "date": "2026-02-25",
+      "total": 1,
+      "by_language": {
+        "TypeScript": 1
+      }
+    },
+    {
+      "date": "2026-02-26",
+      "total": 1,
+      "by_language": {
+        "TypeScript": 1
+      }
+    },
+    {
+      "date": "2026-02-27",
+      "total": 2,
+      "by_language": {
+        "TypeScript": 2
+      }
+    },
+    {
+      "date": "2026-02-28",
+      "total": 10,
+      "by_language": {},
+      "private": 10
+    },
+    {
+      "date": "2026-03-01",
+      "total": 14,
+      "by_language": {
+        "Dart": 1
+      },
+      "private": 12
+    },
+    {
+      "date": "2026-03-02",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2026-03-03",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2026-03-04",
+      "total": 10,
+      "by_language": {},
+      "private": 10
+    },
+    {
+      "date": "2026-03-05",
+      "total": 3,
+      "by_language": {
+        "Dart": 1,
+        "TypeScript": 1
+      },
+      "private": 1
+    },
+    {
+      "date": "2026-03-06",
+      "total": 1,
+      "by_language": {
+        "TypeScript": 1
+      }
+    },
+    {
+      "date": "2026-03-07",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2026-03-08",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2026-03-18",
+      "total": 9,
+      "by_language": {},
+      "private": 9
+    },
+    {
+      "date": "2026-03-19",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2026-03-25",
+      "total": 5,
+      "by_language": {},
+      "private": 5
+    },
+    {
+      "date": "2026-03-26",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2026-03-27",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2026-03-28",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2026-04-14",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2026-04-15",
+      "total": 7,
+      "by_language": {},
+      "private": 7
+    },
+    {
+      "date": "2026-04-16",
+      "total": 10,
+      "by_language": {
+        "HTML": 2
+      },
+      "private": 8
+    },
+    {
+      "date": "2026-04-17",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2026-04-26",
+      "total": 16,
+      "by_language": {
+        "Kotlin": 16
+      }
+    },
+    {
+      "date": "2026-05-04",
+      "total": 2,
+      "by_language": {
+        "HTML": 2
+      }
+    },
+    {
+      "date": "2026-05-05",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2026-05-06",
+      "total": 18,
+      "by_language": {},
+      "private": 17
+    },
+    {
+      "date": "2026-05-07",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2026-05-14",
+      "total": 11,
+      "by_language": {
+        "Kotlin": 11
+      }
+    },
+    {
+      "date": "2026-05-15",
+      "total": 2,
+      "by_language": {
+        "Kotlin": 2
+      }
+    },
+    {
+      "date": "2026-05-16",
+      "total": 1,
+      "by_language": {
+        "Kotlin": 1
+      }
+    },
+    {
+      "date": "2026-05-17",
+      "total": 10,
+      "by_language": {
+        "Kotlin": 10
+      }
+    },
+    {
+      "date": "2026-05-18",
+      "total": 4,
+      "by_language": {}
+    },
+    {
+      "date": "2026-05-19",
+      "total": 2,
+      "by_language": {
+        "Java": 1
+      }
+    },
+    {
+      "date": "2026-05-20",
+      "total": 1,
+      "by_language": {}
+    },
+    {
+      "date": "2026-05-29",
+      "total": 5,
+      "by_language": {
+        "PHP": 5
+      }
+    },
+    {
+      "date": "2026-05-30",
+      "total": 2,
+      "by_language": {
+        "Kotlin": 2
+      }
+    },
+    {
+      "date": "2026-06-01",
+      "total": 4,
+      "by_language": {
+        "Kotlin": 3
+      }
+    },
+    {
+      "date": "2026-06-12",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2026-06-15",
+      "total": 1,
+      "by_language": {
+        "JavaScript": 1
+      }
+    },
+    {
+      "date": "2026-06-17",
+      "total": 4,
+      "by_language": {
+        "TypeScript": 4
+      }
+    },
+    {
+      "date": "2026-06-18",
+      "total": 6,
+      "by_language": {
+        "JavaScript": 2,
+        "TypeScript": 4
+      }
+    },
+    {
+      "date": "2026-06-19",
+      "total": 13,
+      "by_language": {
+        "TypeScript": 13
+      }
+    },
+    {
+      "date": "2026-06-20",
+      "total": 2,
+      "by_language": {
+        "TypeScript": 2
+      }
+    },
+    {
+      "date": "2026-06-21",
+      "total": 5,
+      "by_language": {
+        "TypeScript": 5
+      }
+    },
+    {
+      "date": "2026-06-22",
+      "total": 25,
+      "by_language": {
+        "TypeScript": 25
+      }
+    },
+    {
+      "date": "2026-06-23",
+      "total": 4,
+      "by_language": {
+        "TypeScript": 4
+      }
+    },
+    {
+      "date": "2026-06-24",
+      "total": 10,
+      "by_language": {
+        "PHP": 4,
+        "TypeScript": 6
+      }
+    },
+    {
+      "date": "2026-06-25",
+      "total": 10,
+      "by_language": {
+        "TypeScript": 10
+      }
+    },
+    {
+      "date": "2026-06-26",
+      "total": 7,
+      "by_language": {
+        "TypeScript": 7
+      }
+    },
+    {
+      "date": "2026-06-27",
+      "total": 5,
+      "by_language": {
+        "Lua": 2,
+        "TypeScript": 3
+      }
+    },
+    {
+      "date": "2026-06-28",
+      "total": 16,
+      "by_language": {
+        "TypeScript": 16
+      }
+    },
+    {
+      "date": "2026-06-29",
+      "total": 6,
+      "by_language": {
+        "TypeScript": 6
+      }
+    },
+    {
+      "date": "2026-06-30",
+      "total": 13,
+      "by_language": {
+        "TypeScript": 10
+      }
+    },
+    {
+      "date": "2026-07-02",
+      "total": 2,
+      "by_language": {
+        "TypeScript": 2
+      }
+    },
+    {
+      "date": "2026-07-04",
+      "total": 2,
+      "by_language": {
+        "TypeScript": 2
+      }
+    },
+    {
+      "date": "2026-07-05",
+      "total": 10,
+      "by_language": {
+        "TypeScript": 10
+      }
+    },
+    {
+      "date": "2026-07-07",
+      "total": 6,
+      "by_language": {
+        "JavaScript": 1,
+        "Rust": 2,
+        "TypeScript": 3
+      }
+    },
+    {
+      "date": "2026-07-09",
+      "total": 4,
+      "by_language": {
+        "Rust": 1,
+        "TypeScript": 3
+      }
+    },
+    {
+      "date": "2026-07-10",
+      "total": 1,
+      "by_language": {
+        "TypeScript": 1
+      }
+    },
+    {
+      "date": "2026-07-11",
+      "total": 16,
+      "by_language": {
+        "QML": 7,
+        "TypeScript": 9
+      }
+    },
+    {
+      "date": "2026-07-12",
+      "total": 5,
+      "by_language": {
+        "TypeScript": 5
+      }
+    },
+    {
+      "date": "2026-07-13",
+      "total": 5,
+      "by_language": {
+        "TypeScript": 5
+      }
+    },
+    {
+      "date": "2026-07-14",
+      "total": 4,
+      "by_language": {
+        "TypeScript": 4
+      }
+    },
+    {
+      "date": "2026-07-15",
+      "total": 5,
+      "by_language": {
+        "QML": 5
+      }
+    },
+    {
+      "date": "2026-07-16",
+      "total": 3,
+      "by_language": {
+        "QML": 3
+      }
+    },
+    {
+      "date": "2026-07-17",
+      "total": 1,
+      "by_language": {
+        "QML": 1
+      }
+    },
+    {
+      "date": "2026-07-18",
+      "total": 3,
+      "by_language": {
+        "TypeScript": 3
+      }
+    },
+    {
+      "date": "2026-07-19",
+      "total": 3,
+      "by_language": {
+        "TypeScript": 3
+      }
+    },
+    {
+      "date": "2026-07-20",
+      "total": 2,
+      "by_language": {
+        "TypeScript": 2
+      }
+    },
+    {
+      "date": "2026-07-21",
+      "total": 1,
+      "by_language": {
+        "TypeScript": 1
+      }
+    },
+    {
+      "date": "2026-07-22",
+      "total": 5,
+      "by_language": {
+        "TypeScript": 5
+      }
+    },
+    {
+      "date": "2026-07-23",
+      "total": 2,
+      "by_language": {
+        "TypeScript": 2
+      }
+    },
+    {
+      "date": "2026-07-24",
+      "total": 1,
+      "by_language": {
+        "TypeScript": 1
+      }
+    },
+    {
+      "date": "2026-07-25",
+      "total": 1,
+      "by_language": {
+        "TypeScript": 1
+      }
+    },
+    {
+      "date": "2026-07-26",
+      "total": 2,
+      "by_language": {
+        "TypeScript": 2
+      }
+    },
+    {
+      "date": "2026-07-27",
+      "total": 2,
+      "by_language": {
+        "TypeScript": 2
+      }
+    },
+    {
+      "date": "2026-07-28",
+      "total": 2,
+      "by_language": {
+        "TypeScript": 2
+      }
+    },
+    {
+      "date": "2026-07-29",
+      "total": 4,
+      "by_language": {
+        "TypeScript": 4
+      }
+    },
+    {
+      "date": "2026-07-30",
+      "total": 1,
+      "by_language": {
+        "TypeScript": 1
+      }
+    },
+    {
+      "date": "2026-07-31",
+      "total": 1,
+      "by_language": {
+        "TypeScript": 1
+      }
+    },
+    {
+      "date": "2026-08-01",
+      "total": 1,
+      "by_language": {
+        "TypeScript": 1
+      }
+    },
+    {
+      "date": "2026-08-03",
+      "total": 1,
+      "by_language": {}
+    },
+    {
+      "date": "2026-08-04",
+      "total": 1,
+      "by_language": {
+        "TypeScript": 1
+      }
+    },
+    {
+      "date": "2026-08-05",
+      "total": 1,
+      "by_language": {
+        "TypeScript": 1
+      }
+    },
+    {
+      "date": "2026-08-06",
+      "total": 1,
+      "by_language": {
+        "TypeScript": 1
+      }
+    },
+    {
+      "date": "2026-08-07",
+      "total": 1,
+      "by_language": {
+        "TypeScript": 1
+      }
+    },
+    {
+      "date": "2026-08-16",
+      "total": 2,
+      "by_language": {
+        "QML": 2
+      }
+    },
+    {
+      "date": "2026-08-19",
+      "total": 1,
+      "by_language": {
+        "QML": 1
+      }
+    },
+    {
+      "date": "2026-08-20",
+      "total": 1,
+      "by_language": {
+        "QML": 1
+      }
+    },
+    {
+      "date": "2026-08-22",
+      "total": 2,
+      "by_language": {
+        "QML": 2
+      }
+    },
+    {
+      "date": "2026-09-26",
+      "total": 16,
+      "by_language": {
+        "Rust": 16
+      }
+    },
+    {
+      "date": "2026-09-29",
+      "total": 1,
+      "by_language": {
+        "Rust": 1
+      }
+    },
+    {
+      "date": "2026-10-03",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2026-10-04",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2026-10-06",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2026-10-07",
+      "total": 3,
+      "by_language": {
+        "JavaScript": 1
+      },
+      "private": 2
+    },
+    {
+      "date": "2026-10-08",
+      "total": 9,
+      "by_language": {
+        "TypeScript": 7
+      },
+      "private": 2
+    },
+    {
+      "date": "2026-10-09",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2026-10-10",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2026-10-11",
+      "total": 8,
+      "by_language": {},
+      "private": 8
+    },
+    {
+      "date": "2026-10-13",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2026-10-14",
+      "total": 5,
+      "by_language": {},
+      "private": 5
+    },
+    {
+      "date": "2026-10-17",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2026-10-26",
+      "total": 1,
+      "by_language": {
+        "Rust": 1
+      }
+    },
+    {
+      "date": "2026-10-31",
+      "total": 5,
+      "by_language": {
+        "Rust": 3
+      },
+      "private": 2
+    },
+    {
+      "date": "2026-11-01",
+      "total": 7,
+      "by_language": {},
+      "private": 7
+    },
+    {
+      "date": "2026-11-02",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2026-11-03",
+      "total": 6,
+      "by_language": {},
+      "private": 6
+    },
+    {
+      "date": "2026-11-04",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2026-11-05",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2026-11-07",
+      "total": 1,
+      "by_language": {
+        "Rust": 1
+      }
+    },
+    {
+      "date": "2026-11-10",
+      "total": 1,
+      "by_language": {
+        "Rust": 1
+      }
+    },
+    {
+      "date": "2026-11-16",
+      "total": 1,
+      "by_language": {
+        "Dart": 1
+      }
+    },
+    {
+      "date": "2026-11-17",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2026-11-18",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    }
+  ],
+  "truncated_windows": [],
+  "achievements": {
+    "pair-extraordinaire": 1,
+    "pull-shark": 3,
+    "quickdraw": 1,
+    "yolo": 1
+  },
+  "archived_repos": [
+    "webcamoid.github.io",
+    "discrotte",
+    "tcd-portfolio",
+    "project-fil-rouge-backend",
+    "my-portfolio",
+    "Exo_appTodos",
+    "exo_codeQL1",
+    "le-mauvais-sommet",
+    "tubeup",
+    "exo-microservice",
+    "basic-website-for-school"
+  ],
+  "achievement_dates": {
+    "pair-extraordinaire": [
+      "2025-04-03"
+    ],
+    "pull-shark": [
+      "2022-03-08",
+      "2026-11-19",
+      "2026-11-19"
+    ],
+    "quickdraw": [
+      "2022-04-10"
+    ],
+    "yolo": [
+      "2023-10-13"
+    ]
+  },
+  "archived_dates": {
+    "Exo_appTodos": "2025-11-26",
+    "basic-website-for-school": "2026-09-04",
+    "discrotte": "2023-10-13",
+    "exo-microservice": "2026-07-25",
+    "exo_codeQL1": "2026-05-26",
+    "le-mauvais-sommet": "2026-07-25",
+    "my-portfolio": "2025-11-26",
+    "project-fil-rouge-backend": "2025-11-13",
+    "tcd-portfolio": "2024-03-14",
+    "tubeup": "2026-07-25",
+    "webcamoid.github.io": "2022-12-14"
+  }
+}
