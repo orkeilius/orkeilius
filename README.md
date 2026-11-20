@@ -28,7 +28,12 @@
 ![Top Languages](https://ghstats.dev/api/langs?username=orkeilius&max_langs=12)
 <!--![wakatime stat](https://github-readme-stats.vercel.app/api/wakatime/?username=@b3086389-10af-4dfc-a8ea-5893ce3fda92&layout=donut&theme=tokyonight)-->
 
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/bonsai-dark.svg" />
+    <img src="assets/bonsai-light.svg" width="600" alt="My bonsai, grown from my GitHub activity" />
+  </picture>
+</p>
 
 
 
