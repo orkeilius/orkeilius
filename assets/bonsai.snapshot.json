@@ -4,9 +4,9 @@
   "account_id": 63045634,
   "range": {
     "from": "2020-01-01",
-    "to": "2026-11-21"
+    "to": "2026-11-22"
   },
-  "observed_on": "2026-11-21",
+  "observed_on": "2026-11-22",
   "collected_with": "gitbonsai 0.4.0",
   "language_colors": {
     "C#": "#7355dd",
@@ -27,7 +27,8 @@
     "Rust": "#dea584",
     "SCSS": "#c6538c",
     "Shell": "#89e051",
-    "TypeScript": "#3178c6"
+    "TypeScript": "#3178c6",
+    "Zig": "#ec915c"
   },
   "days": [
     {
@@ -3603,6 +3604,13 @@
       "total": 5,
       "by_language": {},
       "private": 5
+    },
+    {
+      "date": "2026-11-22",
+      "total": 2,
+      "by_language": {
+        "Zig": 1
+      }
     }
   ],
   "truncated_windows": [],
