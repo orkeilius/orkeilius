@@ -4,9 +4,9 @@
   "account_id": 63045634,
   "range": {
     "from": "2020-01-01",
-    "to": "2026-11-25"
+    "to": "2026-11-26"
   },
-  "observed_on": "2026-11-25",
+  "observed_on": "2026-11-26",
   "collected_with": "gitbonsai 0.4.0",
   "language_colors": {
     "C#": "#7355dd",
@@ -3610,6 +3610,13 @@
       "total": 2,
       "by_language": {
         "Zig": 1
+      }
+    },
+    {
+      "date": "2026-11-26",
+      "total": 1,
+      "by_language": {
+        "JavaScript": 1
       }
     }
   ],
